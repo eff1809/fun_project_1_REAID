@@ -1,4 +1,4 @@
-# 🎯 Mini Career Quiz App
+# Mini Career Quiz App
 
 Mini Career Quiz App adalah aplikasi web interaktif berbasis **Streamlit** yang membantu pengguna mengetahui **role IT yang paling cocok** berdasarkan jawaban dari beberapa pertanyaan sederhana.
 
@@ -6,20 +6,20 @@ Aplikasi ini dirancang dengan alur yang jelas, UI sederhana namun informatif, se
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
-✨ **Quiz Interaktif**
+**Quiz Interaktif**
 - Pertanyaan pilihan ganda menggunakan radio button
 - Navigasi antar pertanyaan (Sebelumnya & Selanjutnya)
 - Validasi agar semua pertanyaan harus dijawab sebelum submit
 
-📊 **Hasil & Visualisasi**
+**Hasil & Visualisasi**
 - Menampilkan role IT yang paling sesuai
 - Deskripsi singkat untuk setiap role
 - Detail skor untuk masing-masing role
 - Grafik batang (bar chart) untuk visualisasi skor
 
-🎈 **User Experience**
+**User Experience**
 - Progress bar untuk menunjukkan kemajuan quiz
 - Teks sambutan acak agar terasa lebih personal
 - Efek visual (balloons) setelah quiz selesai
@@ -27,7 +27,7 @@ Aplikasi ini dirancang dengan alur yang jelas, UI sederhana namun informatif, se
 
 ---
 
-## 👨‍💻 Role yang Tersedia
+## Role yang Tersedia
 
 Aplikasi ini saat ini mendukung 3 role IT:
 
@@ -42,7 +42,7 @@ Aplikasi ini saat ini mendukung 3 role IT:
 
 ---
 
-## 🧠 Cara Kerja Aplikasi
+## Cara Kerja Aplikasi
 
 1. Pengguna menjawab pertanyaan satu per satu
 2. Setiap jawaban dipetakan ke role tertentu
@@ -52,19 +52,12 @@ Aplikasi ini saat ini mendukung 3 role IT:
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Python**
 - **Streamlit** → Web app interaktif
 - **Pandas** → Pengolahan data skor
 - **Random** → Menampilkan teks sambutan secara acak
 
----
 
-## 📦 Instalasi & Menjalankan Aplikasi
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
 
